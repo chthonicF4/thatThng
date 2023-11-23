@@ -13,6 +13,8 @@ change it here , the only things you should not touch is the Window class as wel
 BackgroundTask class , those are for controling frame rendering and function running respectivly, if 
 you mess with them they may break or behave unexpectily and that make other things break.
 
+Run this to start it
+
 **dependcys.py** 
 
 running this will just make shure all required modules are installed.
