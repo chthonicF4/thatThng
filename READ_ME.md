@@ -18,17 +18,9 @@ you mess with them they may break or behave unexpectily and that make other thin
 running this will just make shure all required modules are installed.
 good idea to run this when you first get this.
 
-**Run.vbs** 
-
-this will open the window without any command prompt or terminal , this is intended for when you want just the window
-
 **Debug.bat**
 
 will run with a command prompt for debuging so you can see any printed messages
-
-**entrypoint.py**
-
-just used with run.vbs
 
 **data.txt**
 
